@@ -9,7 +9,7 @@
         </classes>
     </test>
 
-    <!--
+
     <test name="INGRESO TOOLS QA CHECKBOX ">
         <classes>
             <class name="testClases.CPA002CheckBox" />
@@ -30,7 +30,7 @@
             <class name="testClases.CPA005Form" />
         </classes>
     </test>
-    -->
+    
 </suite>
 
 
